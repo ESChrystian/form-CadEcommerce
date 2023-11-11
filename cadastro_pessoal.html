@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title></title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" media="screen" href="_css/form.css">
+</head>
+
+<body>
+  <div id="Back">
+  <a href="cadastro.html"><img src="1216-removebg-preview.png" width="10%" ></a>
+  </div>
+  <nav id="pessoal">
+  <h2 align="center">Ok, agora vamos torna-lo um <b>Membro</b>.</h2>
+
+  <form class="row g-3" align="center">
+    <div class="col-md-10">
+      <label for="nome" class="form-label"></label>
+      <input type="text" class="form-control" id="nome" placeholder="Nome Completo">
+    </div>
+    
+    <div class="col-5">
+      <input type="text" class="form-control" placeholder="CPF" aria-label="cpf" pattern="\d{3}\.\d{3}\.\d{3}-\d{2}"
+        title="Digite um CPF no formato: xxx.xxx.xxx-xx">
+    </div>
+    
+    <div class="col-5">
+      <input type="text" class="form-control" placeholder="CEP" aria-label="cep" pattern="\d{8}"
+        title="Digite um CPF com 8 dígitos">
+    </div>
+  
+    
+    <div class="col-4">
+      <label for="cidade" class="form-label">CIdade</label>
+      <input type="text" class="form-control" id="cidade">
+    </div>
+
+    <div class="col-3">
+      <label for="estado" class="form-label">Estado</label>
+      <select id="estado" class="form-select">
+        <option seld>Selecionar...</option>
+        <option>Acre-AC</option>
+        <option>Alagoas-AL</option>
+        <option>Amapá-AP</option>
+        <option>Amapá-AP</option>
+        <option>Bahia-BA</option>
+        <option>Ceará-CE</option>
+        <option>Espírito Santo-ES</option>
+        <option>Goiás-GO</option>
+        <option>Maranhão-MA</option>
+        <option>Mato Grosso-MT</option>
+        <option> Mato Grosso do Sul-MS</option>
+        <option>Minas Gerais-MG</option>
+        <option>Pará-PA</option>
+        <option>Paraná-PR</option>
+        <option>Pernambuco-PE</option>
+        <option>Piauí-PI</option>
+        <option> Rio de Janeiro-RJ</option>
+        <option>Rio Grande do Norte-RN</option>
+        <option>Rio Grande do Sul-RS</option>
+        <option>Rondônia-RO</option>
+        <option>Roraima-RR</option>
+        <option>Santa Catarina-SC</option>
+        <option>São Paulo-SP</option>
+        <option>Sergipe-SE</option>
+        <option>Tocantins-TO</option>
+        <option>Distrito Federal-DF</option>
+
+      </select>
+    </div>
+    <div class="col-3">
+      <label for="País" class="form-label">País</label>
+      <input type="text" class="form-control" id="Pais">
+    </div>
+    <div></div>
+    <div class="col-5">
+      <input type="text" class="form-control" id="inputCity" placeholder="Telefone Celular"
+        pattern="\d{2}\d{1}\ \d{4}-\d{4}" title="Digite um número no formato:(xx)x xxxx-xxxx">
+      </div>
+      
+    <div class="col-5">
+      <input type="text" class="form-control" id="inputCity" placeholder="Telefone Fixo" pattern="\d{8}"
+        title="Digite um número com 8 dígitos">
+    </div>
+  
+    <div class="col-5" align="left">
+      <button type="submit" class="btn btn-primary" >Cadastrar</button>
+    </div>
+  </nav>
+  </form>
+  
+
+</body>
+
+</html>
