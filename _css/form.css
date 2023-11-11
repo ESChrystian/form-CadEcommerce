@@ -1,0 +1,34 @@
+/*Centraliza a posicão do texto em h4(cadastro.html).*/            
+#area h4{                                  
+    padding-left: 17%;                       
+
+}
+
+/*Altera a altura do Fomulário (cadastro.html).*/
+#area {
+    padding-top: 10%;
+    
+}
+
+
+/*Altera a altura do Fomulário (cadastro_pessoal.html).*/
+#pessoal{
+    padding-top: 10%;
+}
+
+
+/*Centraliza a posicão do Formulário (cadastro_pessoal.html).*/
+#pessoal div{
+    padding-left:15%;
+    
+}
+
+
+/*Posiciona o botão "Voltar".*/
+#Back { 
+    padding-top: 8%;
+    position:absolute;
+    padding-left: 5%;
+}
+
+
