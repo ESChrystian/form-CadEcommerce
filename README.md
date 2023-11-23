@@ -1,4 +1,4 @@
-# Formulário de Cadatro Ecommerce 
+# Formulário de Cadastro Ecommerce 
 
 ![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.1-white) 
 >*Formulário de cadastro responsível, criado para aprendizado com o objetivo de simular um E-commerce.*
