@@ -1,4 +1,6 @@
-# Formulário de Cadatro Ecommerce ![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.1-white) 
+# Formulário de Cadatro Ecommerce 
+
+![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.1-white) 
 >*Formulário de cadastro responsível, criado para aprendizado com o objetivo de simular um E-commerce.*
 
 ![Demonstração](exemplo.gif)
@@ -16,6 +18,17 @@
 | [Nike](https://www.nike.com.br/) - Design |
 | [Centauro](https://www.centauro.com.br/) - Dados requesitados |
 
+## Nike
+> [!NOTE]  
+> Foi usado como referência o cadastro em duas etapas que encontra-se no próprio.
+
+## Centauro
+> [!NOTE]  
+> Utilizou-se os seguindes dados (CEP, CPF, número fixo e pessoal, E-mail, estado) encontrado no site.
+#
+
+> [!IMPORTANT]  
+> As referências foram pesquisadas anteriormente em aula.
 
 ## Desenvolvedor
  
