@@ -24,7 +24,7 @@
 
 ## Centauro
 > [!NOTE]  
-> Utilizou-se os seguindes dados (CEP, CPF, número fixo e pessoal, E-mail, estado) encontrado no site.
+> Utilizou-se os seguindes dados (CEP, CPF, número fixo e pessoal, E-mail, estado) como refêrencia, encontrado no mesmo.
 #
 
 > [!IMPORTANT]  
